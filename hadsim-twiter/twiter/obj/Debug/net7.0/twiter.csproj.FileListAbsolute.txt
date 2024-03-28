@@ -1,0 +1,15 @@
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\bin\Debug\net7.0\twiter.exe
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\bin\Debug\net7.0\twiter.deps.json
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\bin\Debug\net7.0\twiter.runtimeconfig.json
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\bin\Debug\net7.0\twiter.dll
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\bin\Debug\net7.0\twiter.pdb
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.csproj.AssemblyReference.cache
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.AssemblyInfoInputs.cache
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.AssemblyInfo.cs
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.csproj.CoreCompileInputs.cache
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.dll
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\refint\twiter.dll
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.pdb
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\twiter.genruntimeconfig.cache
+C:\Users\Shoshana\Source\Repos\hadsim-twiter\twiter\obj\Debug\net7.0\ref\twiter.dll

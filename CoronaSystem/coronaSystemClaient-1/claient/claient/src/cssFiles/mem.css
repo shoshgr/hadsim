@@ -1,0 +1,60 @@
+.member-card {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.member-card h1,
+.member-card h2,
+.member-card h3 {
+    margin: 0;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.delete-button,
+.details-button {
+    background-color: #6495ed;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.delete-button:hover,
+.details-button:hover {
+    background-color: #4169e1;
+}
+
+
+/* סגנון נוסף של הקומפוננטה כדי להשפיע על העיצוב */
+
+.member-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.member-card {
+    width: 90%; /* או ערך אחר לפי העיצוב שלך */
+    margin-bottom: 20px;
+}
+
+/* סגנון נוסף לקומפוננטה על מנת להשפיע על העיצוב */
+.member-card h3,
+.member-card h2 {
+    margin: 0;
+}
+
+.member-card .buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
