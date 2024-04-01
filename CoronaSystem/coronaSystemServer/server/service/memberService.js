@@ -118,16 +118,16 @@ async function updateMember(id, req) {
     if (req.body.mobilePhone)
         fieldsToUpdate.push(`MobilePhone = '${req.body.mobilePhone}'`);
 
-    if (req.body.phoneNumber)
-        fieldsToUpdate.push(`BrithDate = '${req.body.citi}'`);
+    if (req.body.brithDate)
+        fieldsToUpdate.push(`BrithDate = '${req.body.brithDate}'`);
 
-    if (req.body.phoneNumber)
-        fieldsToUpdate.push(`AddressCity  = ${req.body.brithDate}`);
+    if (req.body.citi)
+        fieldsToUpdate.push(`AddressCity  = ${req.body.citi}`);
 
-    if (req.body.phoneNumber)
+    if (req.body.street)
         fieldsToUpdate.push(`AddressStreet  = '${req.body.street}'`);
 
-    if (req.body.phoneNumber)
+    if (req.body.houseNO)
         fieldsToUpdate.push(`AddressNumbe  = '${req.body.houseNO}'`);
 
     if (fieldsToUpdate.length > 0) {
